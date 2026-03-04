@@ -4,7 +4,7 @@
 
 ---
 
-## Why This Exists
+## Problem Statement - Why This Exists
 
 Anyone who has tried to navigate CMS Medicare policy documentation knows the pain. The manuals are dense, deeply cross-referenced, and written in policy-speak. A simple question like *"Does Medicare cover home health visits after a hospitalization, and what are the eligibility requirements?"* might require reading across three different chapters, two subsections, and a handful of exception clauses — none of which link to each other in any usable way.
 
