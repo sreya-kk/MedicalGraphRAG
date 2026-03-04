@@ -25,6 +25,7 @@ The system combines three things that are usually treated separately:
 - A **Claude Sonnet** answer layer that synthesizes both sources and cites every claim by chapter and page number
 
 The result is a Streamlit Q&A interface where answers include inline citations like `[Source: Chapter 01, p.34]` and a sidebar panel with source excerpts for verification.
+
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/12629f72-ef7c-4dda-b708-bee6e48c2b19" />
 
 
